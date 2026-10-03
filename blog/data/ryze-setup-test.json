@@ -1,0 +1,7 @@
+{
+  "slug": "ryze-setup-test",
+  "title": "Setup Test Article",
+  "body_markdown": "Test content.",
+  "body_html": "<p>Test content.</p>",
+  "status": "published"
+}
